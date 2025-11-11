@@ -1,4 +1,4 @@
-# 🚀 NASA Landing Page Concept
+# NASA Landing Page Concept
 
 Ini adalah proyek tugas akhir untuk mata kuliah praktikum pemrograman web, di mana tujuannya adalah membuat *landing page* yang sepenuhnya responsif untuk NASA dengan konsep desain yang modern, gelap, dan sinematik.
 
