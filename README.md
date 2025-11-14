@@ -1,12 +1,12 @@
 # NASA Landing Page Concept
 
-Ini adalah proyek tugas akhir untuk mata kuliah praktikum pemrograman web, di mana tujuannya adalah membuat *landing page* yang sepenuhnya responsif untuk NASA dengan konsep desain yang modern, gelap, dan sinematik.
+Ini adalah proyek tugas akhir percobaan 3 untuk mata kuliah praktikum pemrograman web, di mana tujuannya adalah membuat *landing page* yang sepenuhnya responsif untuk NASA dengan konsep desain yang modern, gelap, dan sinematik.
 
 Proyek ini dibangun dari nol menggunakan **Tailwind CSS (via CDN)** dan **HTML5**, dengan fokus pada *layout* yang bersih, estetika *dark-mode*, dan penggunaan *grid* yang kompleks dan responsif.
 
 ---
 
-## 📸 Pratinjau Halaman (Screenshots)
+## Pratinjau Halaman (Screenshots)
 
 Berikut adalah tampilan dari komponen-komponen utama halaman, sesuai urutan:
 
@@ -28,7 +28,7 @@ Bagian "Get in Touch" dengan *layout* 2-kolom (Info & Form) dan *footer* yang be
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
 Berdasarkan file `index.html`, halaman ini mencakup:
 
@@ -48,12 +48,12 @@ Berdasarkan file `index.html`, halaman ini mencakup:
 
 ---
 
-## 🏃 Cara Menjalankan
+## Cara Menjalankan
 
 Karena proyek ini menggunakan CDN Tailwind dan tidak memerlukan kompilasi:
-1.  *Clone* repositori ini: `git clone [URL_REPOSITORI_ANDA]`
+1.  *Clone* repositori ini: `git clone https://github.com/firmanfarelrichardo/nasa_landingpage.git`
 2.  Masuk ke direktori: `cd nasa_landingpage`
-3.  Buka file `index.html` langsung di browser favoritmu (Google Chrome, Firefox, dll).
+3.  Buka file `index.html` langsung di browser (Google Chrome, Firefox, dll).
 
 ---
 
